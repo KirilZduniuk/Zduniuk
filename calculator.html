@@ -90,5 +90,24 @@ document.getElementById("result2").innerHTML = result2;
 }
 </script>
 </div>
+<div>
+      <input id="nump"/>
+      <p>**</p>
+      <input id="numi">
+      <button onclick="funcm()">Result</button>
+      
+      
+      <p id="result6"></p>
+      <script>
+      function funcm() {
+      var nump = Number(document.getElementById("nump").value);
+      var numi = Number(document.getElementById("numi").value);
+      var result6 = nump ** numi;
+      
+      document.getElementById("result6").innerHTML = result6;
+      }
+      </script>
+      </div>
+
 </body>
 </html>
