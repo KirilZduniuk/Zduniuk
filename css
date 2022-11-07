@@ -1,0 +1,7 @@
+div {
+
+    outline: 2px solid #000;
+    border: 2px solid blue;
+    border-radius: 2px;
+  border-right-width: 2px;
+}

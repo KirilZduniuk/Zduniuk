@@ -1,0 +1,10 @@
+div {
+
+    outline: 2px solid #000;
+    border: 2px solid blue;
+    border-radius: 2px;
+  border-right-width: 2px;
+}
+div {
+  background-image: https://upload.wikimedia.org/wikipedia/commons/7/79/IPhone_Calculator_Complete_Render_With_Barrel_Distortion_%283916732560%29.jpg;
+}
